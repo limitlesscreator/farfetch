@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/farfetch/static/css/main.0a0c3cfa.css",
+    "main.js": "/farfetch/static/js/main.6d0b653d.js",
+    "static/js/787.0d9ab722.chunk.js": "/farfetch/static/js/787.0d9ab722.chunk.js",
+    "static/media/RoadRadio-700.ttf": "/farfetch/static/media/RoadRadio-700.6037293760811399b8ee.ttf",
+    "static/media/roadradio_bold.otf": "/farfetch/static/media/roadradio_bold.cdfd284aa66f33967ed5.otf",
+    "static/media/logo.svg": "/farfetch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/profileMenuBtn.svg": "/farfetch/static/media/profileMenuBtn.80b50a371211a877cfc725dfb284486b.svg",
+    "static/media/favoriteMenuBtn.svg": "/farfetch/static/media/favoriteMenuBtn.89355dc76c07417adfe6ac2f8d9c1e50.svg",
+    "static/media/searchMenuBtn.svg": "/farfetch/static/media/searchMenuBtn.eb4e29d377decbb9b835dc5078143ddd.svg",
+    "index.html": "/farfetch/index.html",
+    "static/media/search.svg": "/farfetch/static/media/search.b2c5220cb40e1da7d38c90c0d659b238.svg",
+    "static/media/basket.svg": "/farfetch/static/media/basket.6616996033a182fbac09a914a9111b8c.svg",
+    "static/media/rightArrow.svg": "/farfetch/static/media/rightArrow.4d7fa23c5df58718a2a80716866cc224.svg",
+    "main.0a0c3cfa.css.map": "/farfetch/static/css/main.0a0c3cfa.css.map",
+    "main.6d0b653d.js.map": "/farfetch/static/js/main.6d0b653d.js.map",
+    "787.0d9ab722.chunk.js.map": "/farfetch/static/js/787.0d9ab722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a0c3cfa.css",
+    "static/js/main.6d0b653d.js"
+  ]
+}
